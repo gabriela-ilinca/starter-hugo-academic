@@ -31,7 +31,7 @@ sections:
           date_start: '2023-05-01'
           date_end: ''
           description: |2-
-            Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency                           ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders
+             Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency                           ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders
               Responsibilities include:
               * Analysing
               * Modelling
@@ -44,8 +44,7 @@ sections:
           date_start: '2022-06-01'
           date_end: '2022-08-31'
           description: |2-
-    Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.
-
+                Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and                   Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.
     - title: Research Intern
           company: Georgia Tech Research Institute
           company_url: ''
