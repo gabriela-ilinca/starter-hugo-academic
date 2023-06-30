@@ -11,55 +11,50 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+
   - block: experience
     content:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: March 2023 - Present
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistant, Summer Undergraduate Research Experience (SURE) Program
+          company: Emory University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Atlanta, Georgia
+          date_start: '2023-05-01'
           date_end: ''
-          description: |2-
+          description: Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders
               Responsibilities include:
-
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Software Engineer Intern
+          company: Rainforest
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: Atlanta, Georgia
+          date_start: '2022-06-01'
+          date_end: '2022-08-31'
+          description: Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.
+
+    - title: Research Intern
+          company: Georgia Tech Research Institute
+          company_url: ''
+          company_logo: 
+          location: Atlanta, Georgia
+          date_start: '2021-05-01'
+          date_end: '2021-08-30'
+          description: Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone
+
+    
     design:
       columns: '2'
   - block: accomplishments
@@ -75,29 +70,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/cadc9214519905881ba56b7bb0131beec4162fbf?raw=1
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-06-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Data Camp
+          organization_url: https://www.datacamp.com
+          title: Intermediate Regression with statsmodels in Python
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: [https://www.linkedin.com](https://www.linkedin.com/learning/certificates/6d35eb5e647cb53a8e1d927a6baaa61374f0d42e7470a0979d4456aea07421b1)
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2023-06-01'
+          description: ''
+          organization: LinkedIn Learning
+          organization_url: https://www.linkedin.com
+          title: Advanced and Specialized Statistics with Stata
+          url: 
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/823374d24fb62e8bb7e48d9ffc629d0925d0575f?raw=1
+          date_end: ''
+          date_start: '2023-05-01'
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Dimensionality Reduction in Python'
           url: ''
     design:
       columns: '2'
