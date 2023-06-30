@@ -30,7 +30,7 @@ sections:
           location: Atlanta, Georgia
           date_start: '2023-05-01'
           date_end: ''
-          description: 'Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders
+          description: 'Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders'
               Responsibilities include:
               * Analysing
               * Modelling
@@ -42,7 +42,7 @@ sections:
           location: Atlanta, Georgia
           date_start: '2022-06-01'
           date_end: '2022-08-31'
-          description: Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.
+          description: 'Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.'
 
     - title: Research Intern
           company: Georgia Tech Research Institute
@@ -52,8 +52,6 @@ sections:
           date_start: '2021-05-01'
           date_end: '2021-08-30'
           description: Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone
-
-    
     design:
       columns: '2'
   - block: accomplishments
