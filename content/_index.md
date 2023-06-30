@@ -31,7 +31,7 @@ sections:
           location: Atlanta, Georgia
           date_start: '2023-05-01'
           date_end: ''
-          description: Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders
+          description: 'Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders'
               Responsibilities include:
               * Analysing
               * Modelling
