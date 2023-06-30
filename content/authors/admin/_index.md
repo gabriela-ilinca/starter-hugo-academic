@@ -22,9 +22,7 @@ organizations:
     url: https://www.emory.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
-
-My name is Gabriela and I am a student studying Computer Science and Economics at Emory University. After my first year at Emory University, I interned as a software engineer
+bio: My name is Gabriela and I am a student studying Computer Science and Economics at Emory University. After my first year at Emory University, I interned as a software engineer
 at Rainforest, a start-up financial technology company. I worked with a team
 of engineers to develop a technology for independent software vendors to em-
 bed payments into their product. My time spent at this company has taught
