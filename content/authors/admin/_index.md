@@ -61,5 +61,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Gabriela Coada, and I am a student at Emory University studying Economics and Computer Science. I am currently working as a summer undergraduate researcher and collaborates with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Some of my skills include pulling data using SQL, data processing with STATA and R, creating maps and other visualizations, and communicating findings to stakeholders.
 {style="text-align: justify;"}
