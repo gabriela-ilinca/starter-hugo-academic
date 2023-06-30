@@ -52,8 +52,9 @@ sections:
           location: Atlanta, Georgia
           date_start: '2021-05-01'
           date_end: '2021-08-30'
-          description: Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone
-    design:
+          description: |2-
+            Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone
+      design:
       columns: '2'
   - block: accomplishments
     content:
